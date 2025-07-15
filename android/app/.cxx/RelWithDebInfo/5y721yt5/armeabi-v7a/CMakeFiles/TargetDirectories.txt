@@ -1,0 +1,2 @@
+E:/Coding with T/Products/01- T store/project/Clone projects/Updated Ecommerce App(Zain)/android/app/.cxx/RelWithDebInfo/5y721yt5/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/Coding with T/Products/01- T store/project/Clone projects/Updated Ecommerce App(Zain)/android/app/.cxx/RelWithDebInfo/5y721yt5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
